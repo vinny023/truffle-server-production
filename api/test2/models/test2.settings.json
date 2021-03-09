@@ -1,9 +1,8 @@
 {
   "kind": "collectionType",
-  "collectionName": "items_tests",
+  "collectionName": "test2s",
   "info": {
-    "name": "ItemsTest",
-    "description": ""
+    "name": "Test2"
   },
   "options": {
     "increments": true,
@@ -14,10 +13,7 @@
     "Name": {
       "type": "string"
     },
-    "sku": {
-      "type": "string"
-    },
-    "hjk": {
+    "Description": {
       "type": "string"
     }
   }

@@ -1,9 +1,8 @@
 {
   "kind": "collectionType",
-  "collectionName": "items_tests",
+  "collectionName": "newtypes",
   "info": {
-    "name": "ItemsTest",
-    "description": ""
+    "name": "newtype"
   },
   "options": {
     "increments": true,
@@ -14,10 +13,7 @@
     "Name": {
       "type": "string"
     },
-    "sku": {
-      "type": "string"
-    },
-    "hjk": {
+    "Blog": {
       "type": "string"
     }
   }
